@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hpafonso
-- 👀 I’m interested in games, pizza and... 🍁
-- 🌱 I’m currently learning yii2 framework
-- 💞️ I’m looking to collaborate on that enrolamento daquele grosso
+- 👀 pizza = life
+- 🌱 I’m currently learning c#
+- 💞️ I’m looking to collaborate on that stuff of the thing, you know, that thing.
 - 📫 Reach me on all socials @hpafonso
 
 <!---
