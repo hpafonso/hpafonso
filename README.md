@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hpafonso
 - 👀 pizza = life
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c# / php
 - 💞️ I’m looking to collaborate on that stuff of the thing, you know, that thing.
 - 📫 Reach me on all socials @hpafonso
 
